@@ -126,8 +126,8 @@ then navigating to the newly created room
 ```
 /HangOutHub  
 👉 /assets           # App icons & splash screen images  
-👉 /components       # Reusable UI components (Buttons, Inputs, Messages, etc.)  
-👉 /screens          # App screens (SetUsername, Rooms, Chat, etc.)  
+👉 /components       # Reusable components(Room, MyMessage, Message) and Resusable UI (Buttons, Inputs, LoadingOverlay)  
+👉 /screens          # App screens (SetUsername, Rooms, Create Room, Chat)  
 👉 /store            # Context for user & room state management  
 👉 /util             # API service functions (Axios requests)  
 👉 App.js            # Main entry point with navigation setup  
