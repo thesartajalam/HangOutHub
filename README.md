@@ -138,8 +138,8 @@ then navigating to the newly created room
 
 ## 🛡 **License**
 
-This project **was created to showcase my skills in React Native development. Feel free to explore the code and learn from it.
-**.
+This project was created to showcase my skills and expertise in **React Native App Development using JavaScript, ReactJS, and Expo**. Feel free to explore the code and learn from it.
+
 
 ## 📩 **Contact**
 
@@ -148,4 +148,4 @@ This project **was created to showcase my skills in React Native development. Fe
 
 ## **💡 Final Thoughts** &#x20;
 
-HangOut Hub is designed to provide an \*\*efficient and user-friendly\*\* group chat experience. Whether for casual conversations or real-time discussions, it brings people together seamlessly! 🚀🔥 &#x20;
+HangOut Hub is designed to provide an **efficient and user-friendly** group chat experience. Whether for casual conversations or real-time discussions, it brings people together seamlessly! 🚀🔥 &#x20;
